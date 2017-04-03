@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:si="https://www.w3schools.com/rdf/">
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Adam</si:title>
+  <si:ISBN>9786059658980</si:ISBN>
+  <si:pages>512</si:pages>
+  <si:year>2016</si:year>
+  <si:publisher>kırmızı kedi yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Cehennem</si:title>
+  <si:ISBN>9789752116832</si:ISBN>
+  <si:pages>576</si:pages>
+  <si:year>2016</si:year>
+  <si:publisher>altın kitaplar yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Paris ve Londra'da beş parasız</si:title>
+  <si:ISBN>9789750725630</si:ISBN>
+  <si:pages>217</si:pages>
+  <si:year>2014</si:year>
+  <si:publisher>Can yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Müptezeller</si:title>
+  <si:ISBN>9789750520976</si:ISBN>
+  <si:pages>163</si:pages>
+  <si:year>2016</si:year>
+  <si:publisher>İletişim yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Cehennem</si:title>
+  <si:ISBN>9789752116832</si:ISBN>
+  <si:pages>576</si:pages>
+  <si:year>2016</si:year>
+  <si:publisher>altın kitaplar yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Hayvanlardan tanrılara</si:title>
+  <si:ISBN>9786055029357</si:ISBN>
+  <si:pages>412</si:pages>
+  <si:year>2016</si:year>
+  <si:publisher>kolektif yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Sefiller</si:title>
+  <si:ISBN>9789759155116</si:ISBN>
+  <si:pages>158</si:pages>
+  <si:year>2016</si:year>
+  <si:publisher>evrensel iletişim yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Böyle buyurdu zerdüşt</si:title>
+  <si:ISBN>9799944353204</si:ISBN>
+  <si:pages>304</si:pages>
+  <si:year>2010</si:year>
+  <si:publisher>kitap zamanı yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Suç ve ceza</si:title>
+  <si:ISBN>9789752894525</si:ISBN>
+  <si:pages>62</si:pages>
+  <si:year>2008</si:year>
+  <si:publisher>everest yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Ana</si:title>
+  <si:ISBN>9789757530602</si:ISBN>
+  <si:pages>507</si:pages>
+  <si:year>1999</si:year>
+  <si:publisher>yar yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Eve dönüş</si:title>
+  <si:ISBN>9786055002152</si:ISBN>
+  <si:pages>406</si:pages>
+  <si:year>2015</si:year>
+  <si:publisher>hyperion yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Kırk yağmur damlası</si:title>
+  <si:ISBN>9789944306140</si:ISBN>
+  <si:pages>87</si:pages>
+  <si:year>2006</si:year>
+  <si:publisher>salıncak yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Oyun teorisi</si:title>
+  <si:ISBN>9786053184133</si:ISBN>
+  <si:pages>184</si:pages>
+  <si:year>2017</si:year>
+  <si:publisher>pegem akademi yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>
+
+
+<rdf:Description rdf:about="https://www.w3schools.com">
+  <si:title>Örgüt kültürü</si:title>
+  <si:ISBN>9786053187271</si:ISBN>
+  <si:pages>232</si:pages>
+  <si:year>2017</si:year>
+  <si:publisher>pegem akademi yayınları<si:publisher>
+</rdf:Description>
+
+</rdf:RDF>

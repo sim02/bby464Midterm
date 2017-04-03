@@ -1,0 +1,17 @@
+<?xml version=''1.0''?>
+<xs:schema xmlns:xs=''http://github.sim02/bby464Midterm''>
+
+
+<xs:element name=''author''>
+   <xs:complexType>
+      <xs:sequence>
+         <xs:element name=''firstname'' type=''xs=string''/>
+         <xs:element name=''lastname'' type=''xs=string''/>
+         <xs:element name=''date'' type=''xs=string''/>
+         <xs:element name=''place'' type=''xs=string''/>
+         <xs:element name=''novels'' type=''xs=string''/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema>

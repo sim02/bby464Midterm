@@ -1,0 +1,18 @@
+<?xml version=''1.0''?>
+<xs:schema xmlns:xs=''http://github.sim02/bby464Midterm''>
+
+
+<xs:element name=''book''>
+   <xs:complexType>
+      <xs:sequence>
+         <xs:element name=''ID'' type=''xs=string''/>
+         <xs:element name=''name'' type=''xs=string''/>
+         <xs:element name=''ISBN'' type=''xs=string''/>
+         <xs:element name=''pages'' type=''xs=string''/>
+         <xs:element name=''year'' type=''xs=string''/>
+         <xs:element name=''publisher'' type=''xs=string''/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema>
