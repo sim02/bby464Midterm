@@ -1,0 +1,48 @@
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+
+<rdf:Description rdf:about="Adam Fawer">
+  <dc:name>Adam Fawer</dc:name>
+  <dc:year>1970</dc:year>
+  <dc:place>New York</dc:place>
+  <dc:novels>Olasılıksız/dc:novels>
+</rdf:Description>
+
+<rdf:Description rdf:about="Stephen King">
+  <dc:name>Stephen King</dc:name>
+  <dc:year>1947</dc:year>
+  <dc:place>ABD</dc:place>
+  <dc:novels>Mahşer/dc:novels>
+</rdf:Description>
+
+<rdf:Description rdf:about="Dan Brown">
+  <dc:name>Dan Brown</dc:name>
+  <dc:year>1964</dc:year>
+  <dc:place>ABD</dc:place>
+  <dc:novels>Beyaz Diş/dc:novels>
+</rdf:Description>
+
+<rdf:Description rdf:about="Victor Hugo">
+  <dc:name>Victor Hugo</dc:name>
+  <dc:year>1802</dc:year>
+  <dc:place>France</dc:place>
+  <dc:novels>Sefiller/dc:novels>
+</rdf:Description>
+
+<rdf:Description rdf:about="George Orwell">
+  <dc:name>George Orwell</dc:name>
+  <dc:year>1903</dc:year>
+  <dc:place>Indıa</dc:place>
+  <dc:novels>Paris ve Londra'da beş parasız/dc:novels>
+</rdf:Description>
+
+<rdf:Description rdf:about="William Shakespeare">
+  <dc:name>William	Shakespeare</dc:name>
+  <dc:year>1564</dc:year>
+  <dc:place>British</dc:place>
+  <dc:novels>Hamlet/dc:novels>
+</rdf:Description>
+
+</rdf:RDF>

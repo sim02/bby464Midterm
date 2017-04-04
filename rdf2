@@ -1,0 +1,24 @@
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+
+<rdf:Description rdf:about="Can yayınları">
+  <dc:name>Can yayınları</dc:name>
+  <dc:year>1981</dc:year>
+  <dc:place>İstanbul</dc:place>
+</rdf:Description>
+
+<rdf:Description rdf:about="Bilgi yayınları">
+  <dc:name>Bilgi yayınları</dc:name>
+  <dc:year>1965</dc:year>
+  <dc:place>Ankara</dc:place>
+</rdf:Description>
+
+<rdf:Description rdf:about="Alfa yayınları">
+  <dc:name>Alfa yayınları</dc:name>
+  <dc:year>1976</dc:year>
+  <dc:place>İstanbul</dc:place>
+</rdf:Description>
+
+</rdf:RDF>

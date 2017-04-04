@@ -1,0 +1,117 @@
+<xml version="1.0" encoding=''UTF-8''>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+
+<rdf:Description rdf:about="Adam">
+  <dc:title>Adam</dc:title>
+  <dc:ISBN>9786059658980</dc:ISBN>
+  <dc:pages>512</dc:pages>
+  <dc:year>2016</dc:year>
+  <dc:publisher>kırmızı kedi yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Cehennem">
+  <dc:title>Cehennem</dc:title>
+  <dc:ISBN>9789752116832</dc:ISBN>
+  <dc:pages>576</dc:pages>
+  <dc:year>2016</dc:year>
+  <dc:publisher>altın kitaplar yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Paris ve Londra'da beş parasız">
+  <dc:title>Paris ve Londra'da beş parasız</dc:title>
+  <dc:ISBN>9789750725630</dc:ISBN>
+  <dc:pages>217</dc:pages>
+  <dc:year>2014</dc:year>
+  <dc:publisher>Can yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Müptezeller">
+  <dc:title>Müptezeller</dc:title>
+  <dc:ISBN>9789750520976</dc:ISBN>
+  <dc:pages>163</dc:pages>
+  <dc:year>2016</dc:year>
+  <dc:publisher>İletişim yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Cehennem">
+  <dc:title>Cehennem</dc:title>
+  <dc:ISBN>9789752116832</dc:ISBN>
+  <dc:pages>576</dc:pages>
+  <dc:year>2016</dc:year>
+  <dc:publisher>altın kitaplar yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Hayvanlardan tanrılara">
+  <dc:title>Hayvanlardan tanrılara</dc:title>
+  <dc:ISBN>9786055029357</dc:ISBN>
+  <dc:pages>412</dc:pages>
+  <dc:year>2016</dc:year>
+  <dc:publisher>kolektif yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Sefiller">
+  <dc:title>Sefiller</dc:title>
+  <dc:ISBN>9789759155116</dc:ISBN>
+  <dc:pages>158</dc:pages>
+  <dc:year>2016</dc:year>
+  <dc:publisher>evrensel iletişim yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Böyle buyurdu zerdüşt">
+  <dc:title>Böyle buyurdu zerdüşt</dc:title>
+  <dc:ISBN>9799944353204</dc:ISBN>
+  <dc:pages>304</dc:pages>
+  <dc:year>2010</dc:year>
+  <dc:publisher>kitap zamanı yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Suç ve Ceza">
+  <dc:title>Suç ve ceza</dc:title>
+  <dc:ISBN>9789752894525</dc:ISBN>
+  <dc:pages>62</dc:pages>
+  <dc:year>2008</dc:year>
+  <dc:publisher>everest yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Ana">
+  <dc:title>Ana</dc:title>
+  <dc:ISBN>9789757530602</dc:ISBN>
+  <dc:pages>507</dc:pages>
+  <dc:year>1999</dc:year>
+  <dc:publisher>yar yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Eve dönüş">
+  <dc:title>Eve dönüş</dc:title>
+  <dc:ISBN>9786055002152</dc:ISBN>
+  <dc:pages>406</dc:pages>
+  <dc:year>2015</dc:year>
+  <dc:publisher>hyperion yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Kırk yağmur damlası">
+  <dc:title>Kırk yağmur damlası</dc:title>
+  <dc:ISBN>9789944306140</dc:ISBN>
+  <dc:pages>87</dc:pages>
+  <dc:year>2006</dc:year>
+  <dc:publisher>salıncak yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Oyun teorisi">
+  <dc:title>Oyun teorisi</dc:title>
+  <dc:ISBN>9786053184133</dc:ISBN>
+  <dc:pages>184</dc:pages>
+  <dc:year>2017</dc:year>
+  <dc:publisher>pegem akademi yayınları<dc:publisher>
+</rdf:Description>
+
+<rdf:Description rdf:about="Örgüt kültürü">
+  <dc:title>Örgüt kültürü</dc:title>
+  <dc:ISBN>9786053187271</dc:ISBN>
+  <dc:pages>232</dc:pages>
+  <dc:year>2017</dc:year>
+  <dc:publisher>pegem akademi yayınları<dc:publisher>
+</rdf:Description>
+
